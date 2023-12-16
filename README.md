@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Nextjs, pentesting**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-website-razinrahat.vercel.app/](https://portfolio-website-razinrahat.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://razin-portfolio.vercel.app/](https://razin-portfolio.vercel.app/)
 
 - 💬 Ask me about **REACT, FLUTTER**
 
