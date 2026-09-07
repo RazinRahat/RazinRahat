@@ -114,13 +114,21 @@ automated testing, type checking, and code-quality tooling.
 ### GitHub
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RazinRahat&layout=compact&hide_border=true"
-    alt="Most Used Languages"
-  />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=razinrahat&show_icons=true&locale=en&layout=compact" alt="razinrahat" />
 </p>
 
 ---
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=razinrahat&show_icons=true&locale=en" alt="razinrahat" />
+</p>
+
+---
+
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=razinrahat&" alt="razinrahat" />
+</p>
+
 
 <p align="center">
   <i>Building toward better AI systems — from understanding the models to engineering the systems around them.</i>
