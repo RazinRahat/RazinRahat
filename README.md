@@ -1,28 +1,127 @@
-<h1 align="center">Hi 👋, I'm Razin Rayan Rahat</h1>
-<h3 align="center">A web development enthusiast</h3>
+<h1 align="center">Hi, I'm Razin Rayan Rahat 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=razinrahat&label=Profile%20views&color=0e75b6&style=flat" alt="razinrahat" /> </p>
-
-- 🔭 I’m currently working on [ai-companion](git@github.com:RazinRahat/ai-companion.git)
-
-- 🌱 I’m currently learning **Nextjs, pentesting**
-
-- 👨‍💻 All of my projects are available at [https://razin-portfolio.vercel.app/](https://razin-portfolio.vercel.app/)
-
-- 💬 Ask me about **REACT, FLUTTER**
-
-- 📫 How to reach me **rrahat1999@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/razin rayan rahat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="razin rayan rahat" height="30" width="40" /></a>
+<p align="center">
+  Master's Student in Artificial Intelligence @ Macquarie University<br>
+  AI/ML · Generative AI · NLP · Computer Vision · Software Engineering
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/razin-rayan-rahat/">LinkedIn</a> •
+  <a href="https://razin-portfolio.vercel.app/">Portfolio</a> •
+  <a href="https://ieeexplore.ieee.org/author/801363617479619">IEEE</a> •
+  <a href="https://orcid.org/0009-0006-7419-759X">ORCID</a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=razinrahat&show_icons=true&locale=en&layout=compact" alt="razinrahat" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=razinrahat&show_icons=true&locale=en" alt="razinrahat" /></p>
+### About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=razinrahat&" alt="razinrahat" /></p>
+I'm currently pursuing a **Master of Information Technology in Artificial
+Intelligence at Macquarie University, Sydney**.
+
+My interests lie in **Generative AI, Natural Language Processing, Computer
+Vision, and Machine Learning Engineering**. I enjoy working across both the
+research and engineering sides of AI — from experimenting with neural
+architectures to building reliable software around them.
+
+Before focusing on AI, I worked extensively in software development, which
+continues to shape how I approach ML projects: not just training models, but
+thinking about reproducibility, deployment, testing, and maintainability.
+
+Currently, I'm exploring **LLM systems, local inference, retrieval-augmented
+generation, evaluation, and AI agents**.
+
+---
+
+### Research
+
+I have contributed to two peer-reviewed IEEE conference publications.
+
+**An End-to-End Encrypted Peer-to-Peer Chat System with Self-Sovereign Identity**  
+*IEEE ICCIT 2024*  
+[DOI](https://doi.org/10.1109/ICCIT64611.2024.11022566)
+
+- Developed peer-to-peer communication functionality using DIDComm and
+  decentralized identity technologies.
+- Implemented QR-code-based connection establishment and direct
+  mobile-to-mobile messaging without relying on a centralized database.
+
+**A Unified Computational Framework for Biomedical Sensing, AI, and Assistive Technologies**  
+*IEEE BECITHCON 2025*  
+[DOI](https://doi.org/10.1109/BECITHCON69222.2025.11504276)
+
+---
+
+### Selected Projects
+
+#### [Duplicate Question Detection](https://github.com/RazinRahat/duplicate-question-detection)
+
+**Python · PyTorch · DistilBERT · Siamese LSTM**
+
+Built and compared deep-learning approaches for semantic duplicate-question
+detection using the Quora Question Pairs dataset, including a Siamese LSTM
+architecture and transformer-based DistilBERT model.
+
+#### [Real-Time Gesture Classification](https://github.com/RazinRahat/real-time-gesture-classification)
+
+**Python · PyTorch · OpenCV**
+
+Built a computer-vision pipeline for classifying hand gestures from real-time
+camera input, including image preprocessing, model inference, and live
+prediction visualization.
+
+#### [Personal Finance CLI](https://github.com/RazinRahat/finance-cli)
+
+**Python · SQLite · Click · Pytest**
+
+Built a privacy-focused command-line application for importing, categorizing,
+and analysing financial transactions locally, with persistent SQLite storage,
+automated testing, type checking, and code-quality tooling.
+
+---
+
+### Technical Stack
+
+**AI / Machine Learning**
+
+`Python` · `PyTorch` · `scikit-learn` · `NumPy` · `Pandas` · `OpenCV` · `MLflow`
+
+**Generative AI / NLP**
+
+`Transformers` · `DistilBERT` · `LSTM` · `Ollama`
+
+**Backend & Data**
+
+`FastAPI` · `Node.js` · `Express.js` · `PostgreSQL` · `MySQL` · `SQLite`
+
+**Engineering**
+
+`Git` · `GitHub` · `Docker` · `Linux` · `GCP` · `Firebase`
+
+---
+
+### Currently Exploring
+
+- Local LLM inference and deployment
+- Retrieval-Augmented Generation (RAG)
+- LLM evaluation and hallucination mitigation
+- Vector retrieval and embedding systems
+- Agentic AI and tool-using systems
+- ML systems and production AI engineering
+
+---
+
+### GitHub
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RazinRahat&layout=compact&hide_border=true"
+    alt="Most Used Languages"
+  />
+</p>
+
+---
+
+<p align="center">
+  <i>Building toward better AI systems — from understanding the models to engineering the systems around them.</i>
+</p>
