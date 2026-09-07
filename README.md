@@ -1,8 +1,11 @@
 <h1 align="center">Hi, I'm Razin Rayan Rahat 👋</h1>
 
 <p align="center">
-  Master's Student in Artificial Intelligence @ Macquarie University<br>
-  AI/ML · Generative AI · NLP · Computer Vision · Software Engineering
+  <b>Artificial Intelligence Master's Student @ Macquarie University</b>
+</p>
+
+<p align="center">
+  Machine Learning · Generative AI · NLP · Computer Vision · AI Engineering
 </p>
 
 <p align="center">
@@ -14,31 +17,33 @@
 
 ---
 
-### About Me
+## About Me
 
 I'm currently pursuing a **Master of Information Technology in Artificial
 Intelligence at Macquarie University, Sydney**.
 
-My interests lie in **Generative AI, Natural Language Processing, Computer
+My interests span **Generative AI, Natural Language Processing, Computer
 Vision, and Machine Learning Engineering**. I enjoy working across both the
-research and engineering sides of AI — from experimenting with neural
-architectures to building reliable software around them.
+research and engineering sides of AI — from experimenting with machine
+learning models to building reliable software around them.
 
-Before focusing on AI, I worked extensively in software development, which
-continues to shape how I approach ML projects: not just training models, but
-thinking about reproducibility, deployment, testing, and maintainability.
+My background also includes software engineering, which influences how I
+approach AI projects: with an emphasis on reproducibility, testing,
+maintainability, and practical deployment.
 
-Currently, I'm exploring **LLM systems, local inference, retrieval-augmented
-generation, evaluation, and AI agents**.
+Currently, I'm exploring **local LLM systems, Retrieval-Augmented Generation
+(RAG), evaluation, vector retrieval, and agentic AI**.
 
 ---
 
-### Research
+## Research & Publications
 
 I have contributed to two peer-reviewed IEEE conference publications.
 
-**An End-to-End Encrypted Peer-to-Peer Chat System with Self-Sovereign Identity**  
-*IEEE ICCIT 2024*  
+### An End-to-End Encrypted Peer-to-Peer Chat System with Self-Sovereign Identity
+
+*IEEE International Conference on Computer and Information Technology (ICCIT), 2024*
+
 [DOI](https://doi.org/10.1109/ICCIT64611.2024.11022566)
 
 - Developed peer-to-peer communication functionality using DIDComm and
@@ -46,91 +51,84 @@ I have contributed to two peer-reviewed IEEE conference publications.
 - Implemented QR-code-based connection establishment and direct
   mobile-to-mobile messaging without relying on a centralized database.
 
-**A Unified Computational Framework for Biomedical Sensing, AI, and Assistive Technologies**  
-*IEEE BECITHCON 2025*  
+### A Unified Computational Framework for Biomedical Sensing, AI, and Assistive Technologies
+
+*IEEE BECITHCON, 2025*
+
 [DOI](https://doi.org/10.1109/BECITHCON69222.2025.11504276)
+
+- Co-authored a peer-reviewed study integrating biomedical sensing, AI,
+  and assistive technologies within a unified computational framework.
 
 ---
 
-### Selected Projects
+## Selected Projects
 
-#### [Duplicate Question Detection](https://github.com/RazinRahat/duplicate-question-detection)
+### [Duplicate Question Detection](https://github.com/RazinRahat/duplicate-question-detection)
 
 **Python · PyTorch · DistilBERT · Siamese LSTM**
 
-Built and compared deep-learning approaches for semantic duplicate-question
-detection using the Quora Question Pairs dataset, including a Siamese LSTM
-architecture and transformer-based DistilBERT model.
+Developed semantic duplicate-question classification models using the Quora
+Question Pairs dataset. Implemented and compared Siamese LSTM and DistilBERT
+architectures and evaluated their performance and generalization.
 
-#### [Real-Time Gesture Classification](https://github.com/RazinRahat/real-time-gesture-classification)
+### [Real-Time Gesture Classification](https://github.com/RazinRahat/real-time-gesture-classification)
 
 **Python · PyTorch · OpenCV**
 
-Built a computer-vision pipeline for classifying hand gestures from real-time
-camera input, including image preprocessing, model inference, and live
-prediction visualization.
+Built a deep-learning computer vision pipeline for classifying hand gestures
+from real-time camera input. Integrated image preprocessing, trained-model
+inference, and OpenCV-based real-time prediction and visualization.
 
-#### [Personal Finance CLI](https://github.com/RazinRahat/finance-cli)
+### [Personal Finance CLI](https://github.com/RazinRahat/finance-cli)
 
 **Python · SQLite · Click · Pytest**
 
 Built a privacy-focused command-line application for importing, categorizing,
-and analysing financial transactions locally, with persistent SQLite storage,
-automated testing, type checking, and code-quality tooling.
+and analyzing financial transactions with local SQLite storage. Includes
+duplicate detection, monthly reporting, automated testing, type checking,
+and code-quality tooling.
 
 ---
 
-### Technical Stack
+## Technical Stack
 
-**AI / Machine Learning**
-
+**AI & Machine Learning**  
 `Python` · `PyTorch` · `scikit-learn` · `NumPy` · `Pandas` · `OpenCV` · `MLflow`
 
-**Generative AI / NLP**
-
+**Generative AI & NLP**  
 `Transformers` · `DistilBERT` · `LSTM` · `Ollama`
 
-**Backend & Data**
-
+**Backend & Databases**  
 `FastAPI` · `Node.js` · `Express.js` · `PostgreSQL` · `MySQL` · `SQLite`
 
-**Engineering**
-
+**Engineering & Infrastructure**  
 `Git` · `GitHub` · `Docker` · `Linux` · `GCP` · `Firebase`
+
+**Additional Development**  
+`JavaScript` · `TypeScript` · `React` · `Next.js`
 
 ---
 
-### Currently Exploring
+## Currently Exploring
 
 - Local LLM inference and deployment
 - Retrieval-Augmented Generation (RAG)
+- Embeddings and vector retrieval
 - LLM evaluation and hallucination mitigation
-- Vector retrieval and embedding systems
 - Agentic AI and tool-using systems
-- ML systems and production AI engineering
+- Production ML and AI systems
 
 ---
 
-### GitHub
+## Connect
 
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=razinrahat&" alt="razinrahat" />
-</p>
-
-
----
-
-### Connect
-
-I'm always interested in discussing AI research, ML engineering, and
-interesting problems worth building.
+I'm interested in opportunities and collaborations across **AI research,
+machine learning, and AI engineering**.
 
 [LinkedIn](https://www.linkedin.com/in/razin-rayan-rahat/) ·
 [Portfolio](https://razin-portfolio.vercel.app/) ·
 [IEEE](https://ieeexplore.ieee.org/author/801363617479619) ·
 [ORCID](https://orcid.org/0009-0006-7419-759X)
 
-
-<p align="center">
-  <i>Building toward better AI systems — from understanding the models to engineering the systems around them.</i>
-</p>
+📫 **rrahat1999@gmail.com**
