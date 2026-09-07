@@ -118,6 +118,19 @@ automated testing, type checking, and code-quality tooling.
 </p>
 
 
+---
+
+### Connect
+
+I'm always interested in discussing AI research, ML engineering, and
+interesting problems worth building.
+
+[LinkedIn](https://www.linkedin.com/in/razin-rayan-rahat/) ·
+[Portfolio](https://razin-portfolio.vercel.app/) ·
+[IEEE](https://ieeexplore.ieee.org/author/801363617479619) ·
+[ORCID](https://orcid.org/0009-0006-7419-759X)
+
+
 <p align="center">
   <i>Building toward better AI systems — from understanding the models to engineering the systems around them.</i>
 </p>
